@@ -172,7 +172,7 @@ SCOLOR='\033[0m'
 			done
 			cat <<-EOF >>$var_sqd
 				#Nome squid
-				visible_hostname VPSMANAGER 
+				visible_hostname PHCN-VPN_BY_PECH_CHHEAN 
 				via off
 				forwarded_for off
 				pipeline_prefetch off
