@@ -172,7 +172,7 @@ SCOLOR='\033[0m'
 			done
 			cat <<-EOF >>$var_sqd
 				#Nome squid
-				visible_hostname PechChhean-2022
+				visible_hostname DevVPN-Cambodia
 				via off
 				forwarded_for off
 				pipeline_prefetch off
